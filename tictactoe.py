@@ -1,6 +1,7 @@
 def create_board():
     '''Create an empty nested list 3 by 3.'''
     return [["","",""],["","",""],["","",""]]
+#yikes
 
 def play(marker, row, col, board):
     '''A marker is either x or o. A row is an int 0 - 2. 
