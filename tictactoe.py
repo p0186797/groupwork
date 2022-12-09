@@ -23,5 +23,6 @@ def get_row_col(board):
     '''Get row and col from user. Returns row and col as tupple.'''
     # what is a tupple
     # get the row and column to print
+    #goodbye
 
     #hello
