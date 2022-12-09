@@ -3,6 +3,7 @@ def create_board():
     return [["","",""],["","",""],["","",""]]
 #yikes
 
+#TIME STAMP OHMHMHMHMH
 def play(marker, row, col, board):
     '''A marker is either x or o. A row is an int 0 - 2. 
     A col is an int 0 - 2. Places marker on board at row and col.
