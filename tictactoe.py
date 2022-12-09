@@ -1,7 +1,7 @@
 def create_board():
     '''Create an empty nested list 3 by 3.'''
     return [["","",""],["","",""],["","",""]]
-#yikes gong show
+
 def play(marker, row, col, board):
     '''A marker is either x or o. A row is an int 0 - 2. 
     A col is an int 0 - 2. Places marker on board at row and col.
@@ -29,3 +29,4 @@ def get_row_col(board):
     # tomorrow is sat
     #hello
     # time to quit
+    # TRY IT AGAIN
