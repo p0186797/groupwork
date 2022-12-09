@@ -17,6 +17,7 @@ def print_board(board):
 
 def is_there_a_winner(board):
     '''Returns true there is a winner.'''
+    # hello hello
 
 def get_row_col(board):
     '''Get row and col from user. Returns row and col as tupple.'''
