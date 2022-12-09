@@ -28,3 +28,4 @@ def get_row_col(board):
     #today
     # tomorrow is sat
     #hello
+    # time to quit
