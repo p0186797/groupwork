@@ -1,6 +1,7 @@
 def create_board():
     '''Create an empty nested list 3 by 3.'''
     return [[,,],[,,],[,,]]
+#this good enough
 
 def play(marker, row, col, board):
     '''A marker is either x or o. A row is an int 0 - 2. 
@@ -14,7 +15,7 @@ def print_board(board):
     # print board
     # hello
     # si
-    #fhdjkfhskjahfjdhsajfdhjsk
+    
 
 def is_there_a_winner(board):
     '''Returns true there is a winner.'''
