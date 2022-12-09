@@ -11,7 +11,9 @@ def play(marker, row, col, board):
 
 def print_board(board):
     '''Prints the board so it looks like a tic-tac-toe board.'''
-    //print board
+    # print board
+    # hello
+    
 
 def is_there_a_winner(board):
     '''Returns true there is a winner.'''
