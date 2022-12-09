@@ -24,3 +24,4 @@ def get_row_col(board):
     # what is a tupple
     # get the row and column to print
 
+    #hello
