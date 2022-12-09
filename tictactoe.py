@@ -26,5 +26,5 @@ def get_row_col(board):
     # get the row and column to print
     #goodbye
     #today
-
+    # tomorrow is sat
     #hello
