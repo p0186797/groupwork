@@ -6,6 +6,8 @@ def play(marker, row, col, board):
     '''A marker is either x or o. A row is an int 0 - 2. 
     A col is an int 0 - 2. Places marker on board at row and col.
     Returns the updated board.'''
+    board[row][col] = marker
+    return board
 
 def print_board(board):
     '''Prints the board so it looks like a tic-tac-toe board.'''
